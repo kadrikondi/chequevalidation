@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "./static/css/main.085dfba0.chunk.css",
+    "main.js": "./static/js/main.5897112a.chunk.js",
+    "main.js.map": "./static/js/main.5897112a.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.d1ed88cc.js",
+    "runtime-main.js.map": "./static/js/runtime-main.d1ed88cc.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "./static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.e80eed4c.chunk.js": "./static/js/2.e80eed4c.chunk.js",
+    "static/js/2.e80eed4c.chunk.js.map": "./static/js/2.e80eed4c.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "./static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.085dfba0.chunk.css.map": "./static/css/main.085dfba0.chunk.css.map",
+    "static/js/2.e80eed4c.chunk.js.LICENSE.txt": "./static/js/2.e80eed4c.chunk.js.LICENSE.txt",
+    "static/media/IT’S TIME FOR THE BLACKMAN'S REVOLUTION.fc700ac7.pdf": "./static/media/IT’S TIME FOR THE BLACKMAN'S REVOLUTION.fc700ac7.pdf",
+    "static/media/blackrevolutionbook.72cbd37b.jpg": "./static/media/blackrevolutionbook.72cbd37b.jpg",
+    "static/media/ch1.a8026c02.jpg": "./static/media/ch1.a8026c02.jpg",
+    "static/media/logo.5e9f432b.png": "./static/media/logo.5e9f432b.png",
+    "static/media/smile1.c884af49.jpg": "./static/media/smile1.c884af49.jpg",
+    "static/media/timed.fe52aaf4.jpg": "./static/media/timed.fe52aaf4.jpg",
+    "static/media/undraw_profile.a8d98262.svg": "./static/media/undraw_profile.a8d98262.svg",
+    "static/media/vanguard.dc08f399.jpg": "./static/media/vanguard.dc08f399.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1ed88cc.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.e80eed4c.chunk.js",
+    "static/css/main.085dfba0.chunk.css",
+    "static/js/main.5897112a.chunk.js"
+  ]
+}

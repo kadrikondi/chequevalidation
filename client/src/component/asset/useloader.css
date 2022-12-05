@@ -1,0 +1,42 @@
+
+
+#loader {
+    margin: 0 auto;
+
+    border: 4px solid rgb(236, 64, 122);
+    /* rgb(235, 41, 106); */
+    /* #f3f3f3;  b4 */
+    border-radius: 50%;
+    border-top: 4px solid #ffffff;
+    /* #3498db; b4*/
+    width: 50px;
+    height: 50px;
+    animation: spin 2s linear infinite
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+
+#h1 {
+  color: #000000;
+  text-align: center;
+  font-family: sans-serif;
+  text-transform: capitalize;
+  font-size: 20px;
+  position: relative;
+}
+
+#h1:after {
+  position: absolute;
+  content: "";
+  -webkit-animation: Dots 2s cubic-bezier(0, .39, 1, .68) infinite;
+  animation: Dots 2s cubic-bezier(0, .39, 1, .68) infinite;
+}
