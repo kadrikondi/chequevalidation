@@ -1,2 +1,2 @@
-# blackRevolutionReg
-Web app for The Blackmans revolution community
+# cheque validation framework
+Web app for cheque verifiaction and clearification
