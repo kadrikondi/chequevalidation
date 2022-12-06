@@ -1,0 +1,31 @@
+#corousals{
+        background-color: black;
+         opacity:0.8 ;
+         font-size:4em
+    }
+ #btnhideonsm {
+     display: inline-block;
+ }
+ #btnshowonsm {
+     display: none;
+ }
+
+
+
+    @media screen and (max-width:576px) {
+ #corousals {
+     background-color: black;
+     opacity: 0.8;
+     font-size: 1em
+ }
+ #btncorousal{
+    display: none;
+    
+ }
+ #btnhideonsm{
+     display: none;
+ }
+ #btnshowonsm{
+     display: block;
+ }
+    }
